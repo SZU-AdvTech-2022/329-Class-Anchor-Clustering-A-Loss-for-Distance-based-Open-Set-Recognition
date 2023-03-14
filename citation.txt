@@ -1,0 +1,7 @@
+@inproceedings{REPO-330,
+    author = "Miller, Dimity and Sunderhauf, Niko and Milford, Michael and Dayoub, Feras",
+    booktitle = "Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision",
+    pages = "3570--3578",
+    title = "{Class Anchor Clustering: A Loss for Distance-based Open Set Recognition}",
+    year = "2021"
+}
